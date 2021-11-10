@@ -8,7 +8,7 @@ namespace GitHub_test
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Hello World!" +(new you()).Add(5,6));
+            Console.WriteLine("Hello World!" +(new you()).Add(7,7));
             Console.ReadLine();
         }
     }
