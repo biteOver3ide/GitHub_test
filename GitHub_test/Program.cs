@@ -25,6 +25,8 @@ namespace GitHub_test
                 Console.WriteLine("Go home!");
 
             Console.ReadLine();
+
+            //Hej fra Jacob
         }
     }
 
