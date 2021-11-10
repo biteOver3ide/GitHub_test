@@ -13,6 +13,8 @@ namespace GitHub_test
             return a * b;
 
             //Test Test
+
+            //Stor test
         }
     }
 }

@@ -27,6 +27,8 @@ namespace GitHub_test
             Console.ReadLine();
 
             //Hej fra Jacob
+            // Godt program
+
         }
     }
 
